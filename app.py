@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-data=pd.read_csv(path + "/creditcard.csv")
+data=pd.read_csv( "/creditcard.csv")
 
 print(data.head())
 
